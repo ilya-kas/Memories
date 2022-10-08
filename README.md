@@ -1,16 +1,8 @@
 # memories
+A project from my flutter internship. <br>
+It is an app to pin images to locations on the map.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Platform -** Mobile <br>
+**Language -** Dart <br>
+**Frameworks & libraries -** Flutter, Dio, Google_maps_flutter, Custom_info_window, Image_picker, Firebase, Flutter_bloc, Get_it <br>
+**Architecture -** Clean architecture over Bloc
