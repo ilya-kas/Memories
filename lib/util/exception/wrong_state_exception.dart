@@ -1,0 +1,3 @@
+class WrongStateException implements Exception {
+
+}

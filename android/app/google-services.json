@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142338717287",
+    "firebase_url": "https://memories-328107-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "memories-328107",
+    "storage_bucket": "memories-328107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142338717287:android:1744971e94cb450a3506c2",
+        "android_client_info": {
+          "package_name": "com.itechart.memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142338717287-hilniuou26sf24v4rpcvrq54avb3gejv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-kJ9lsqmZ4jncNqWUYWCNnoSkTypDKp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142338717287-hilniuou26sf24v4rpcvrq54avb3gejv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

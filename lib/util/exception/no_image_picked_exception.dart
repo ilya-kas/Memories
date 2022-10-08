@@ -1,0 +1,3 @@
+class NoImagePickedException implements Exception {
+
+}
